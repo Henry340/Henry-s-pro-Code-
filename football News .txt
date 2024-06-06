@@ -1,0 +1,39 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Football News</title>
+	<link rel="stylesheet" href="football news.css.txt">
+</head>
+<body>
+	<header>
+		<h1>Football News</h1>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">News</a></li>
+			<li><a href="#">Scores</a></li>
+			<li><a href="#">Teams</a></li>
+		</ul>
+	</nav>
+	<main>
+		<section class="football-article">
+			<h2Latest Football News</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+		</section>
+		<section class="football-article">
+			<h2>Football Scores</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+		</section>
+		<section class="football-article">
+			<h2>Teams</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2024 Football News</p>
+	</footer>
+</body>
+</html>
